@@ -1,0 +1,19 @@
+{
+  "name": "Spielbank Hamburg",
+  "short_name": "Spielbank Hamburg",
+  "theme_color": "",
+  "background_color": "#F2F2F2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1777292161-cropped-spielbank-hamburg-icon-32x32.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
